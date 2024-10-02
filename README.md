@@ -1,2 +1,2 @@
-# trading-alert.site
-https://trading-alert.site/
+# tradingalert.site
+https://tradingalert.site/
